@@ -1,4 +1,4 @@
-# **Customer Interaction Analytics Project**
+# **E-Commerce Behavior Tracker**
 
 ## 📖 **Project Overview**  
 This project is a data-driven solution designed to analyze and visualize customer interactions with products in an e-commerce environment. Using a PostgreSQL database provides insights into user behaviors such as product views, purchases, and time-to-purchase decisions. The insights are valuable for business teams aiming to optimize product offerings and marketing strategies. 
