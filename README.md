@@ -43,10 +43,11 @@ This project showcases the power of SQL and PostgreSQL in extracting valuable in
 ---
 
 ## 📊 **Visualization**  
-- **Bar Charts**: For product views and comparison of purchases.
-- **Conversion Funnel**: Visualize the customer journey from view to purchase.  
-- **Heat Maps**: Analyze peak interaction times for strategic marketing.
-- [](./image.png) 
+![Most Popular Products by Views](./Most_Popular_Products_(by_Views).png)
+
+![Conversion Rate for Products](./Conversion_Rate_for_Products.png)
+
+![ Average Time Between Views and Purchases ](./Average_Time_Between_Views_and_Purchases.png)
 
 ---
 
